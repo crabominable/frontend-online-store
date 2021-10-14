@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 
 import Carrinho from './pages/Carrinho';
 import Checkout from './pages/Checkout';
@@ -111,7 +111,7 @@ class App extends React.Component {
     const { carrinho } = this.state;
 
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Cabeçalho />
         <Switch>
           <Route
