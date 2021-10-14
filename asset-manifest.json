@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/frontend-online-store/static/css/main.2b556569.chunk.css",
-    "main.js": "/frontend-online-store/static/js/main.570931b3.chunk.js",
-    "main.js.map": "/frontend-online-store/static/js/main.570931b3.chunk.js.map",
+    "main.js": "/frontend-online-store/static/js/main.356beb4e.chunk.js",
+    "main.js.map": "/frontend-online-store/static/js/main.356beb4e.chunk.js.map",
     "runtime-main.js": "/frontend-online-store/static/js/runtime-main.720530ed.js",
     "runtime-main.js.map": "/frontend-online-store/static/js/runtime-main.720530ed.js.map",
-    "static/js/2.b04af1ce.chunk.js": "/frontend-online-store/static/js/2.b04af1ce.chunk.js",
-    "static/js/2.b04af1ce.chunk.js.map": "/frontend-online-store/static/js/2.b04af1ce.chunk.js.map",
+    "static/js/2.a3e74f1e.chunk.js": "/frontend-online-store/static/js/2.a3e74f1e.chunk.js",
+    "static/js/2.a3e74f1e.chunk.js.map": "/frontend-online-store/static/js/2.a3e74f1e.chunk.js.map",
     "index.html": "/frontend-online-store/index.html",
-    "precache-manifest.1b9564f071ddde6917347832cfd1b0de.js": "/frontend-online-store/precache-manifest.1b9564f071ddde6917347832cfd1b0de.js",
+    "precache-manifest.887f4ffd7ceef3a0bbddb15eedfc50a2.js": "/frontend-online-store/precache-manifest.887f4ffd7ceef3a0bbddb15eedfc50a2.js",
     "service-worker.js": "/frontend-online-store/service-worker.js",
     "static/css/main.2b556569.chunk.css.map": "/frontend-online-store/static/css/main.2b556569.chunk.css.map",
-    "static/js/2.b04af1ce.chunk.js.LICENSE.txt": "/frontend-online-store/static/js/2.b04af1ce.chunk.js.LICENSE.txt",
+    "static/js/2.a3e74f1e.chunk.js.LICENSE.txt": "/frontend-online-store/static/js/2.a3e74f1e.chunk.js.LICENSE.txt",
     "static/media/icone-adicionar.svg": "/frontend-online-store/static/media/icone-adicionar.2a687ed9.svg",
     "static/media/icone-cabeçalho.svg": "/frontend-online-store/static/media/icone-cabeçalho.542b3133.svg",
     "static/media/icone-deletar.svg": "/frontend-online-store/static/media/icone-deletar.2253c48f.svg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.720530ed.js",
-    "static/js/2.b04af1ce.chunk.js",
+    "static/js/2.a3e74f1e.chunk.js",
     "static/css/main.2b556569.chunk.css",
-    "static/js/main.570931b3.chunk.js"
+    "static/js/main.356beb4e.chunk.js"
   ]
 }
